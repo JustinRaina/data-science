@@ -1,2 +1,2 @@
 # data-science
-it is a course
+It is a challenging course, just do it!
